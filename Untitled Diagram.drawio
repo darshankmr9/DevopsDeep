@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T08:55:52.922Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="MMT_ELiT8zz6TBAXVLkb" version="14.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-03T13:59:04.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="hF8H4Z28BTJvk8L45Ruk" version="14.6.9" type="github" pages="2">
   <diagram id="ZqS-oZ4EtQNUb0h2oK1V" name="Page-1">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
         <mxCell id="joA3Ox-NP5H4RrqAylZS-6" value="&lt;font color=&quot;#3399ff&quot;&gt;Stateless&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="390" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="joA3Ox-NP5H4RrqAylZS-7" value="container-name --&amp;gt; to-do-proxy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="joA3Ox-NP5H4RrqAylZS-7" value="container-name --&amp;gt; todo-proxy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="410" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="joA3Ox-NP5H4RrqAylZS-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -128,6 +128,9 @@
         </mxCell>
         <mxCell id="rU5UK0vA69QqC-EOJpqe-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="920" y="390" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rU5UK0vA69QqC-EOJpqe-17" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; todo-net[&lt;b&gt;Docker Network&lt;/b&gt;]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="100" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
